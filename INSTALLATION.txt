@@ -1,0 +1,7 @@
+1 Get the code from https://github.com/erickedu85/visual-querying-of-large-multilayer-graphs
+2 Be sure that a Java Virtual Machine is installed
+3 Be sure that a Maven repository is installed
+4 Using any IDE for Java (e.g. Eclipse) import the files as a new Maven project
+5 Update the project dependencies if required
+6 Compile the project
+7 Run the project
